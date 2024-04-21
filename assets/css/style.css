@@ -4,7 +4,7 @@
 }
 .top{
     height: 500px;
-    width: 1000px;
-    color: aquamarine;
+    width: auto;
+    background-color: rgb(66, 68, 68);
 }
 

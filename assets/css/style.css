@@ -10,3 +10,14 @@
     background-color: green;
 }
 
+.center{
+    height: 500px;
+    width: auto;
+    background-color: blue;
+}
+
+.footer{
+    height: 500px;
+    width: auto;
+    background-color: brown;
+}
